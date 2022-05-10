@@ -1,0 +1,10 @@
+{
+  "name": "vim-monokaish",
+  "version": "1.0.0",
+  "repository": "git@github.com:t4ccer/vim-monokaish.git",
+  "author": "Tomasz Maciosowski (t4ccer) <t4ccer@gmail.com>",
+  "license": "MIT",
+  "vim": {
+    "opt": true
+  }
+}
